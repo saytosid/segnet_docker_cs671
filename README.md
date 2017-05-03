@@ -1,7 +1,3 @@
-## Demo
-# 1. ![](videos/input.gif) ![](videos/output.gif) 2.![](videos/input2.gif) ![](videos/output2.gif)  
-# 3.![](videos/input3.gif) ![](videos/output3.gif)
-
 ## Building Docker image  
     sudo docker build -t  saytosid/segnet_demo:latest .
 
@@ -12,6 +8,10 @@
     ./segnet.sh  
 This will run segnet on .jpg images of your <INPUT_DIRECTORY> and produce outputs in your <OUTPUT_DIRECTORY>    
     
+## Demo
+# 1. ![](videos/input.gif) ![](videos/output.gif) 
+# 2.![](videos/input2.gif) ![](videos/output2.gif)  
+# 3.![](videos/input3.gif) ![](videos/output3.gif)
 
 ### Note:
     The code is present in segnet_demo.py and is quite straight forward. If you change the code then you need to rebuild the docker image.

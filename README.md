@@ -19,6 +19,7 @@ This will run segnet on .jpg images of your <INPUT_DIRECTORY> and produce output
 
 ## Based on 
     SegNet: A Deep Convolutional Encoder-Decoder Architecture for Robust Semantic Pixel-Wise Labelling 
-For more details on the project please refer to the [Segnet website](http://mi.eng.cam.ac.uk/projects/segnet/ )
+For more details on the project please refer to the [Segnet website](http://mi.eng.cam.ac.uk/projects/segnet/ )  
+The docker image is based on [aospan's docker-segnet image](https://hub.docker.com/r/aospan/docker-segnet/)
 
 

@@ -1,7 +1,6 @@
 ## Demo
-1. ![](videos/input.gif) ![](videos/output.gif)
-2. ![](videos/input2.gif) ![](videos/output2.gif)
-3. ![](videos/input3.gif) ![](videos/output3.gif)
+# 1. ![](videos/input.gif) ![](videos/output.gif) 2.![](videos/input2.gif) ![](videos/output2.gif)  
+# 3.![](videos/input3.gif) ![](videos/output3.gif)
 
 ## Building Docker image  
     sudo docker build -t  saytosid/segnet_demo:latest .
